@@ -1,13 +1,32 @@
-/* Add your CSS styles here */
 body {
-  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
 }
 
 h1 {
-  color: navy;
+  text-align: center;
+  margin-top: 50px;
+  color: #333;
 }
 
 p {
   font-size: 18px;
+  line-height: 1.5;
+  color: #666;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 0 20px;
 }
+
+a {
+  color: #007acc;
+}
+
+.license {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 14px;
+  color: #999;
+}
+
 
